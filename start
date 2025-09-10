@@ -1,0 +1,4 @@
+#!/bin/bash
+# Start the dashboard application
+cd report
+python dashboard.py
